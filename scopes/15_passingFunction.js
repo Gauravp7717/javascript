@@ -9,7 +9,7 @@ function gun(fn){
     // console.trace();
 }
 
-gun(function (){
+gun(function (){ // this is where the callback is used .
     console.trace();
     console.log("new function passed !"); // this functon expression is not have any name then its the anonymous
 })
