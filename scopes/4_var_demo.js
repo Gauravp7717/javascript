@@ -27,3 +27,17 @@ function fun(){
 }
 
 fun();
+
+ 
+
+
+var h = 10;
+
+function fun1(){
+    var h = 1;
+    console.log(h)
+}
+
+
+fun1(   )
+console.log(h)
