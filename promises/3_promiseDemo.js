@@ -21,4 +21,4 @@ function solve(val){
 }
 
 
-solve(2)
+solve(3)
